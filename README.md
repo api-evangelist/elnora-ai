@@ -1,4 +1,4 @@
-# elnora-ai
+# Elnora AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,132 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-elnora-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://elnora.ai/
+Elnora AI is an artificial intelligence agent designed to accelerate laboratory work. It plans experiments, writes and optimises lab protocols, searches scientific literature and databases, analyses results, and remembers how a lab operates, helping teams discover faster within their existing tools and workflows.
+
+**Areas:** AI agent · Lab automation · Life sciences · Pharma · CRO · Research tools
+
+## Elnora AI on APIs.io
+
+Everything profiled for Elnora AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/elnora-ai/](https://apis.io/providers/elnora-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [Elnora AI Account API](https://apis.io/apis/elnora-ai/elnora-ai-account-api/) — The Account API from Elnora AI — 10 operation(s) for account.
+- [Elnora AI Audit API](https://apis.io/apis/elnora-ai/elnora-ai-audit-api/) — The Audit API from Elnora AI — 1 operation(s) for audit.
+- [Elnora AI Connections O Auth API](https://apis.io/apis/elnora-ai/elnora-ai-connectionsoauth-api/) — The ConnectionsOAuth API from Elnora AI — 3 operation(s) for connectionsoauth.
+- [Elnora AI Feedback API](https://apis.io/apis/elnora-ai/elnora-ai-feedback-api/) — The Feedback API from Elnora AI — 1 operation(s) for feedback.
+- [Elnora AI Files API](https://apis.io/apis/elnora-ai/elnora-ai-files-api/) — The Files API from Elnora AI — 24 operation(s) for files.
+- [Elnora AI Folders API](https://apis.io/apis/elnora-ai/elnora-ai-folders-api/) — The Folders API from Elnora AI — 23 operation(s) for folders.
+- [Elnora AI MCP Connections API](https://apis.io/apis/elnora-ai/elnora-ai-mcpconnections-api/) — The McpConnections API from Elnora AI — 9 operation(s) for mcpconnections.
+- [Elnora AI Organization API](https://apis.io/apis/elnora-ai/elnora-ai-organization-api/) — The Organization API from Elnora AI — 13 operation(s) for organization.
+- [Elnora AI Organization Invitation API](https://apis.io/apis/elnora-ai/elnora-ai-organizationinvitation-api/) — The OrganizationInvitation API from Elnora AI — 3 operation(s) for organizationinvitation.
+- [Elnora AI Organization Library API](https://apis.io/apis/elnora-ai/elnora-ai-organizationlibrary-api/) — The OrganizationLibrary API from Elnora AI — 3 operation(s) for organizationlibrary.
+- [Elnora AI Public Invitation API](https://apis.io/apis/elnora-ai/elnora-ai-publicinvitation-api/) — The PublicInvitation API from Elnora AI — 2 operation(s) for publicinvitation.
+- [Elnora AI Search API](https://apis.io/apis/elnora-ai/elnora-ai-search-api/) — The Search API from Elnora AI — 4 operation(s) for search.
+- [Elnora AI Tasks API](https://apis.io/apis/elnora-ai/elnora-ai-tasks-api/) — The Tasks API from Elnora AI — 8 operation(s) for tasks.
+- [Elnora AI Version API](https://apis.io/apis/elnora-ai/elnora-ai-version-api/) — The Version API from Elnora AI — 1 operation(s) for version.
+- [Elnora AI API Key API](https://apis.io/apis/elnora-ai/elnora-ai-api-key-api/) — The API Key API from Elnora AI — 3 operation(s) for api key.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Elnora Ai Agentic Access](https://apis.io/agentic-access/elnora-ai/elnora-ai-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Elnora Ai Context](https://apis.io/jsonld/elnora-ai/elnora-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Elnora AI API Rules](https://apis.io/rules/elnora-ai/elnora-ai-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Elnora Ai Authentication](https://apis.io/security/elnora-ai/elnora-ai-authentication/)
+- [Elnora Ai Domain Security](https://apis.io/security/elnora-ai/elnora-ai-domain-security/)
+- [Elnora Ai Trust Center](https://apis.io/security/elnora-ai/elnora-ai-trust-center/)
+- [Elnora Ai Vulnerability Disclosure](https://apis.io/security/elnora-ai/elnora-ai-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://elnora.ai/)
+- [Documentation](https://docs.elnora.ai)
+- [Getting started](https://docs.elnora.ai/docs/get-started)
+- [API reference](https://docs.elnora.ai/docs/api)
+- [Pricing](https://elnora.ai/pricing)
+- [Changelog](https://elnora.ai/changelog)
+- [Blog](https://elnora.ai/blog)
+- [Security](https://elnora.ai/security)
+- [Compliance](https://elnora.ai/security)
+- [Terms of service](https://elnora.ai/terms-of-service)
+- [Privacy policy](https://elnora.ai/privacy-policy)
+- [GitHub](https://github.com/Elnora-AI)
+
+## API Evangelist rating
+
+**Kin Score 56.7** — strong · rubric 0.27.0 · scored 2026-11-06
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 48.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 66.7 |
+| Access clarity | 47.4 |
+
+**Agent readiness 37.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.1** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/elnora-ai/](https://apis.io/providers/elnora-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Elnora AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/elnora-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
